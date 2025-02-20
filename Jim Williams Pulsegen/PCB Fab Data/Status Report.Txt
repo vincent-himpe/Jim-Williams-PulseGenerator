@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [pulsegen-v2.PcbDoc]
+   Generated File[pulsegen-v2.GTL]
+   Generated File[pulsegen-v2.GBL]
+   Generated File[pulsegen-v2.GTO]
+   Generated File[pulsegen-v2.GTS]
+   Generated File[pulsegen-v2.GBS]
+   Generated File[pulsegen-v2.GBO]
+   Generated File[pulsegen-v2.GKO]
+   Generated File[pulsegen-v2.RUL]
+   Generated File[pulsegen-v2.EXTREP]
+   Generated File[pulsegen-v2.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 10:05:55 AM On 1/28/2013

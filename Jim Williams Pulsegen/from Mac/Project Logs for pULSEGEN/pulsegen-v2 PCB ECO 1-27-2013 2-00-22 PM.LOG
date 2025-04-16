@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetK1_+ Pin=SW1-C
-Removed Pin From Net: NetName=V3 Pin=SW1-NO
-Change Component DesignItemId : Designator=SW1 Old DesignItemId=SW-SPDT-CK-OS102011 New DesignItemId=SW-MHS122K
-Change Component Footprint: Designator=SW1 Old Footprint=CK-OS102011 New Footprint=MHS122K
-Change Component Comment : Designator=SW1 Old Comment=SW-SPDT-CK-OS102011 New Comment=SW-MHS122K
-Added Pin To Net: NetName=V3 Pin=SW1-C
-Added Pin To Net: NetName=V3 Pin=SW1-NC
-Added Pin To Net: NetName=NetK1_+ Pin=SW1-NO

@@ -1,9 +1,0 @@
-Added Component: Designator=J1(BYPASS)
-Added Component: Designator=R1A(0805R-TBD)
-Added Pin To Net: NetName=NetC2_1 Pin=J1-2
-Added Pin To Net: NetName=NetC4_2 Pin=R1A-1
-Added Pin To Net: NetName=WAVEGUIDE Pin=J1-1
-Added Pin To Net: NetName=WAVEGUIDE Pin=R1A-2
-Added Net: Name=WAVEGUIDE
-Added Member To Class: ClassName=pulsegen Member=Component J1 BYPASS
-Added Member To Class: ClassName=pulsegen Member=Component R1A 10M

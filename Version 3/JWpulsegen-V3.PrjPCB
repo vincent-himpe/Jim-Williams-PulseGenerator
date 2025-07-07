@@ -60,7 +60,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -84,57 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IHBXGGJT
 
 [Document3]
-DocumentPath=JWpulsegen-V3.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=JWpulsegen-V3.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RURSIOAS
-
-[Document5]
-DocumentPath=JWpulsegen-V3.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TUHCANUN
-
-[Document6]
 DocumentPath=JWpulsegen-V3 Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,9 +98,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AVBFROTC
 
-[Document7]
+[Document4]
 DocumentPath=JWpulsegen-V3 Cover Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,9 +115,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HERGIXBU
 
-[Document8]
+[Document5]
 DocumentPath=JWpulsegen-V3 Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,9 +132,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IRIWHSPG
 
-[Document9]
+[Document6]
 DocumentPath=JWpulsegen-V3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,12 +152,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\Jim Williams Pulsegen\Project Outputs for pULSEGEN\Design Rule Check - pulsegen-v2.html
+DocumentPath=Project Outputs for JWpulsegen-V3\Design Rule Check - JWpulsegen-V3.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=..\Jim Williams Pulsegen\Project Outputs for pULSEGEN\Design Rule Check - pulsegen-v2.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=..\Jim Williams Pulsegen\pulsegen-v2.PcbDoc.htm
 DItemRevisionGUID=
+
+[Parameter1]
+Name=SCHdrafter
+Value=Vincent Himpe
 
 [Configuration1]
 Name=Default Configuration

@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=USB-GPIB.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=PDF
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -36,9 +36,9 @@ OutputMedium4_Type=Multimedia
 OutputType1=Pick Place
 OutputName1=Generates pick and place files
 OutputCategory1=Assembly
-OutputDocumentPath1=DIP2350.PcbDoc
+OutputDocumentPath1=JWpulsegen-V3.PcbDoc
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=4
@@ -49,9 +49,9 @@ Configuration1_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|
 OutputType2=Gerber
 OutputName2=Gerber Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=DIP2350.PcbDoc
+OutputDocumentPath2=JWpulsegen-V3.PcbDoc
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=1
@@ -62,9 +62,9 @@ Configuration2_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType3=NC Drill
 OutputName3=NC Drill Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=DIP2350.PcbDoc
+OutputDocumentPath3=JWpulsegen-V3.PcbDoc
 OutputVariantName3=
-OutputEnabled3=1
+OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=2
@@ -75,9 +75,9 @@ Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType4=BOM_PartType
 OutputName4=Bill of Materials
 OutputCategory4=Report
-OutputDocumentPath4=DIP2350.SchDoc
+OutputDocumentPath4=JWpulsegen-V3.SchDoc
 OutputVariantName4=
-OutputEnabled4=1
+OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
@@ -101,7 +101,7 @@ OutputName5=Schematic Prints
 OutputCategory5=Documentation
 OutputDocumentPath5=
 OutputVariantName5=
-OutputEnabled5=0
+OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
 OutputEnabled5_OutputMedium2=2
 OutputEnabled5_OutputMedium3=0
@@ -113,9 +113,9 @@ Configuration5_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType6=BOM_PartType
 OutputName6=Bill of Materials
 OutputCategory6=Report
-OutputDocumentPath6=DIP2350.SchDoc
+OutputDocumentPath6=JWpulsegen-V3.SchDoc
 OutputVariantName6=
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=5
@@ -137,9 +137,9 @@ Configuration6_Item6=Description=120|Designator=120|Quantity=120|LCSC=100
 OutputType7=PCBDrawing
 OutputName7=Fabrication Draftsman
 OutputCategory7=Documentation
-OutputDocumentPath7=DIP2350 Fabrication Drawing.PCBDwf
+OutputDocumentPath7=JWpulsegen-V3 Fabrication Drawing.PCBDwf
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=3
 OutputEnabled7_OutputMedium3=0
@@ -149,9 +149,9 @@ PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType8=PCBDrawing
 OutputName8=Assembly Draftsman
 OutputCategory8=Documentation
-OutputDocumentPath8=DIP2350 Assembly Drawing.PCBDwf
+OutputDocumentPath8=JWpulsegen-V3 Assembly Drawing.PCBDwf
 OutputVariantName8=
-OutputEnabled8=0
+OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
 OutputEnabled8_OutputMedium2=4
 OutputEnabled8_OutputMedium3=0
@@ -161,9 +161,9 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType9=PCBDrawing
 OutputName9=Draftsman
 OutputCategory9=Documentation
-OutputDocumentPath9=DIP2350 Cover Drawing.PCBDwf
+OutputDocumentPath9=JWpulsegen-V3 Cover Drawing.PCBDwf
 OutputVariantName9=
-OutputEnabled9=0
+OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
 OutputEnabled9_OutputMedium2=1
 OutputEnabled9_OutputMedium3=0
@@ -172,7 +172,7 @@ OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
-OutputFilePath2=C:\GitHub\DIP2350\CAD\.\PDF\USBgpib-USBTMC.PDF
+OutputFilePath2=C:\GitHub\Jim-Williams-PulseGenerator\Version 3\.\PDF\DIP2350.PDF
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=[Media Name]
@@ -180,7 +180,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=DIP2350.PDF
+OutputFileName2=JWPulsegen MK-III
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -251,7 +251,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\GitHub\DIP2350\CAD\.\PDF\USBgpib-USBTMC.PDF
+RelativeOutputPath2=C:\GitHub\Jim-Williams-PulseGenerator\Version 3\.\PDF\DIP2350.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\GitHub\USBGPIB\PCB Project\.\Production\
 OpenOutputs3=0

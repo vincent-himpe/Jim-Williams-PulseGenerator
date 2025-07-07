@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC2_1
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component C2 CAP0805
+Add Class Member: Failed to add class member : Component J2 731000105

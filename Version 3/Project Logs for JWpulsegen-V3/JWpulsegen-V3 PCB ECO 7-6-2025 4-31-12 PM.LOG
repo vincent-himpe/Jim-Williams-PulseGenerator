@@ -1,0 +1,70 @@
+Add component: Footprint Not Found 0805C-GENERIC
+Added Component: Designator=D1(DO214AC)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-10MQ150NCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO214AC)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-10MQ150NCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO214AC)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-10MQ150NCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DO214AC)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-10MQ150NCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DO214AC)
+Add component (AddParameter): Name = "DIGIKEY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LOCATION"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1655-10MQ150NCT-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Added Pin To Net: NetName=NetC4_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-1
+Added Pin To Net: NetName=NetC4_1 Pin=D2-2
+Added Pin To Net: NetName=NetC4_2 Pin=D3-1
+Added Pin To Net: NetName=NetC1_2 Pin=D3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D4-1
+Added Pin To Net: NetName=NetC4_2 Pin=D4-2
+Added Pin To Net: NetName=NetC7_2 Pin=D5-1
+Added Pin To Net: NetName=NetC3_2 Pin=D5-2
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Class Member: Failed to add class member : Component C9 5..20Pf
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component D1 10MQ150N
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component D2 10MQ150N
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component D3 10MQ150N
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component D4 10MQ150N
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component D5 10MQ150N
+Add Class Member: Failed to add class member : Component J2 731000105
+Added Member To Class: ClassName=JWpulsegen-V3 Member=Component R3 RESC0603

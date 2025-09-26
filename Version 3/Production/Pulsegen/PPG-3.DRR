@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: JWpulsegen-V3.PcbDoc   9/25/2025  9:47:16 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PPG-3-RoundHoles.TXT
+ASCII SlotHoles File : PPG-3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             117       PTH        293.68mm (11.56inch)
+T2      0.356mm (14mil)                                           Round             1         PTH        0.00mm (0.00inch)
+T3      0.4mm (16mil)                                             Round             16        PTH        17.15mm (0.68inch)
+T4      0.5mm (20mil)                                             Round             28        PTH        216.00mm (8.50inch)
+T5      0.6mm (24mil)                                             Slot              4         PTH        36.25mm (1.43inch)
+T6      1mm (39mil)                                               Round             2         PTH        2.54mm (0.10inch)
+T7      5mm (197mil)                                              Round             1         PTH        0.00mm (0.00inch)
+T8      1.8mm (71mil)                                             Round             2         NPTH       7.60mm (0.30inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              171
+
+Total Processing Time (hh:mm:ss) : 00:00:00

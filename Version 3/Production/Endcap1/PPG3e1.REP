@@ -1,0 +1,163 @@
+*************************************************************
+FileName = PPG3e1.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : PPG3e1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PPG3e1.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PPG3e1.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PPG3e1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PPG3e1.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PPG3e1.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PPG3e1.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D15
+    D16
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PPG3e1.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PPG3e1.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PPG3e1.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PPG3e1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PPG3e1.GM
+
+
+Used DCodes :
+    D21
+*************************************************************
+

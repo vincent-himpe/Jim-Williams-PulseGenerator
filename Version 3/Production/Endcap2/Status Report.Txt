@@ -1,12 +1,23 @@
-Output: Endcap 1 NC Drill Files
-Type  : NC Drill
-From  : PCB Document [ENDCAP1.PcbDoc]
-   Generated File[ENDCAP1.TXT]
-   Generated File[ENDCAP1.LDP]
-   Generated File[ENDCAP1.DRR]
+Output: Endcap 2 Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ENDCAP2.PcbDoc]
+   Generated File[PPG3e2.GTO]
+   Generated File[PPG3e2.GTP]
+   Generated File[PPG3e2.GTS]
+   Generated File[PPG3e2.GTL]
+   Generated File[PPG3e2.GBL]
+   Generated File[PPG3e2.GBS]
+   Generated File[PPG3e2.GBP]
+   Generated File[PPG3e2.GBO]
+   Generated File[PPG3e2.GKO]
+   Generated File[PPG3e2.GPT]
+   Generated File[PPG3e2.GPB]
+   Generated File[PPG3e2.GM]
+   Generated File[PPG3e2.EXTREP]
+   Generated File[PPG3e2.REP]
 
 
-Files Generated   : 3
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 5:29:58 PM On 7/8/2025
+Finished Output Generation At 11:11:54 AM On 9/25/2025
